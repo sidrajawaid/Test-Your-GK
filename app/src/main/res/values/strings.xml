@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="q1">How many counties are there in the world</string>
+    <string name="q2">How many planets are there in the universe</string>
+    <string name="q3">how many continents are there in the world</string>
+    <string name="q4">how any rivers are there in the world</string>
+    <string name="q5">which country has the biggest population in the world</string>
+    <string name="q6">which country is biggest in area</string>
+    <string name="_1a"> 102</string>
+    <string name="_1b"> 103</string>
+    <string name="_1c">104</string>
+    <string name="_1d">105</string>
+    <string name="_2a">6</string>
+    <string name="_2b">7</string>
+    <string name="_2c">8</string>
+    <string name="_2d">9</string>
+    <string name="_3a"></string>
+    <string name="_3b"></string>
+    <string name="_3c"></string>
+    <string name="_3d"></string>
+
+
+
+
+
+</resources>
